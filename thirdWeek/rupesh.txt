@@ -1,0 +1,1 @@
+some content written to the file from the query 
